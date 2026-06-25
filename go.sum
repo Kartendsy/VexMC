@@ -1,0 +1,8 @@
+github.com/Tnze/go-mc v1.20.3-0.20241224032005-539b4a3a7f03 h1:DTfuZLjn/C0Q7IWk6+vTbMUlCjHyGGS48YeU7GlxoV4=
+github.com/Tnze/go-mc v1.20.3-0.20241224032005-539b4a3a7f03/go.mod h1:vp949nHNUK5KVwSuadpN1vp7c1zvkPEniM08PQv1FcY=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+go.uber.org/multierr v1.11.0 h1:blXXJkSxSSfBVBlC76pxqeO+LN3aDfLQo+309xJstO0=
+go.uber.org/multierr v1.11.0/go.mod h1:20+QtiLqy0Nd6FdQB9TLXag12DsQkrbs3htMFfDN80Y=
+go.uber.org/zap v1.28.0 h1:IZzaP1Fv73/T/pBMLk4VutPl36uNC+OSUh3JLG3FIjo=
+go.uber.org/zap v1.28.0/go.mod h1:rDLpOi171uODNm/mxFcuYWxDsqWSAVkFdX4XojSKg/Q=
